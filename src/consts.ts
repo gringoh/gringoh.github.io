@@ -9,7 +9,7 @@ export const SITE: Site = {
 };
 
 export const HOME: Metadata = {
-  TITLE: "Emanuel López",
+  TITLE: "Home",
   DESCRIPTION: "Hello. My name is Emanuel! I am a software developer based in Bahía Blanca, Argentina. This is my personal site, which contains some links and information on how to find me online.",
 };
 
